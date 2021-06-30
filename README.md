@@ -1,2 +1,2 @@
 # tuxman1
-First repo for Richard
+Repo for storing scripts
